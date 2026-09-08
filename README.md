@@ -20,4 +20,3 @@ Based on [Ed Donner's LLM Engineering course](https://github.com/ed-donner/llm_e
 ## Progress
 
 - ✅ Week 1 — Day 1 & 2: First LLM API calls, website summarizer using Ollama
-- ⬜ Week 2 — Coming soon
